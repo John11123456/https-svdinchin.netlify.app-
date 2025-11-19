@@ -1,2 +1,2 @@
-# https-svdinchin.netlify.app/
+# https-svd.netlify.app/
 与我同行
